@@ -1,4 +1,5 @@
-# BrowserPagePool
+# Playwright Pool
+
 
 A simple, asynchronous browser page pool management library for Python, utilizing Playwright. This library makes it easy to manage a pool of browser pages for efficient web scraping, testing, or any other task that requires multiple browser instances.
 
@@ -77,7 +78,7 @@ print(metrics)
 
 ## Development
 
-To contribute to BrowserPagePool, clone the repository, make changes, and submit a pull request. Ensure you follow the coding standards and write tests for new features.
+Any contributions are welcome!
 
 ## License
 
