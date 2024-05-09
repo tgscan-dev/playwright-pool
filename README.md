@@ -14,7 +14,7 @@ A simple, asynchronous browser page pool management library for Python, utilizin
 ## Installation
 
 ```bash
-pip install playwright-pool
+pip install git+https://github.com/tgscan-dev/playwright-pool.git
 ```
 
 ## Quick Start
