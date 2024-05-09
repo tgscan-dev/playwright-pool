@@ -2,7 +2,7 @@
 name = "playwright-pool"
 version = "0.1.0"
 description = ""
-authors = ["tgscan.xyz@outlook.com"]
+authors = ["tgscan-dev <tgscan.xyz@outlook.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
