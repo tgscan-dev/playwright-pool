@@ -6,7 +6,7 @@ authors = ["tgscan-dev <tgscan.xyz@outlook.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.1"
+python = "^3.11"
 pytest-asyncio = "^0.23.6"
 playwright = "^1.43.0"
 
