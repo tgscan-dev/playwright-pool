@@ -90,7 +90,3 @@ class BrowserPagePool:
 
     def get_metrics(self) -> Dict:
         return self.metrics
-
-
-if __name__ == "__main__":
-    BrowserPagePool()
